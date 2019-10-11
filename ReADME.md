@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the difference between an adaptive website and a fully responsive website?
 
-An adaptive website uses responsive units to change it's size to fit the screen you are viewing it on. A fully responsive website uses both responsive units and media queries to change the style of the page to provide a better experiance to the end user on any screen size.
+An adaptive website uses media queries to change it's size to fit the screen you are viewing it on at set intervals. A fully responsive website uses both responsive units and media queries to change the style of the page to provide a better experiance to the end user on any screen size.
 
 2. Describe what it means to be mobile first vs desktop first.
 
