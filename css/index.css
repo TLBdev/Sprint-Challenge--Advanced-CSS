@@ -165,6 +165,9 @@ p {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  position: fixed;
+  align-content: center;
+  background: rgba(255, 255, 255, 0.7);
 }
 .navDiv h2 {
   text-align: center;
@@ -216,6 +219,7 @@ footer {
   padding: 0 15px;
 }
 .home .intro img {
+  margin-top: 19vh;
   border-radius: 10px;
 }
 @media (max-width: 500px) {
